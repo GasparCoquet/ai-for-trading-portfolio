@@ -36,10 +36,6 @@ This repository showcases projects inspired by the **Udacity AI for Trading Nano
 - **Simulating Trades with Historical Data**  
   Build a realistic backtesting system that includes transaction costs, portfolio optimization, and performance attribution to analyze profit-and-loss drivers.
 
-### 9. Capstone Project
-- **Final Capstone Project**  
-  Create a comprehensive trading strategy by integrating signal generation, portfolio construction, backtesting, and performance evaluation.
-
 ## Skills Demonstrated
 - Quantitative Finance and Trading
 - Python Programming (Pandas, NumPy, scikit-learn, TensorFlow, Plotly)
