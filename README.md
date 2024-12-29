@@ -8,34 +8,6 @@ This repository showcases projects inspired by the **Udacity AI for Trading Nano
 - **Trading with Momentum**  
   Implement a momentum-based trading strategy using historical stock prices. Compute signals, evaluate statistical significance, and test for profitability.
 
-### 2. Advanced Quantitative Trading
-- **Breakout Strategy**  
-  Develop and evaluate a breakout strategy by identifying and filtering outliers, testing for alpha, and optimizing the model for trading signals.
-
-### 3. Stocks, Indices & ETFs
-- **Smart Beta Portfolio Optimization**  
-  Build a smart beta portfolio by analyzing fundamental data, calculating tracking errors, and optimizing portfolio weights using quadratic programming.
-
-### 4. Factor Investing & Alpha Research
-- **Multi-Factor Model**  
-  Research and generate alpha factors, evaluate their performance, and construct a portfolio using advanced optimization techniques, including risk models and factor constraints.
-
-### 5. Sentiment Analysis with Natural Language Processing
-- **Sentiment Analysis Using NLP**  
-  Analyze corporate filings (e.g., 10-Q and 10-K statements) using Natural Language Processing. Use bag-of-words and TF-IDF models to generate sentiment-based trading signals.
-
-### 6. Advanced Natural Language Processing with Deep Learning
-- **Sentiment Analysis with Neural Networks**  
-  Build sentiment analysis models using deep learning techniques like LSTMs (Long Short-Term Memory networks). Train models on financial news to predict market sentiment.
-
-### 7. Combining Multiple Signals
-- **Combining Signals for Enhanced Alpha**  
-  Combine various trading signals using random forest models. Handle overlapping data samples and refine signal selection through feature engineering.
-
-### 8. Backtesting and Portfolio Analysis
-- **Simulating Trades with Historical Data**  
-  Build a realistic backtesting system that includes transaction costs, portfolio optimization, and performance attribution to analyze profit-and-loss drivers.
-
 ## Skills Demonstrated
 - Quantitative Finance and Trading
 - Python Programming (Pandas, NumPy, scikit-learn, TensorFlow, Plotly)
