@@ -9,7 +9,6 @@ This project implements a momentum-based trading strategy inspired by the **Udac
 Project_1/
 ├── eod-quotemedia.csv          # Dataset contenant des données boursières
 ├── helper.py                   # Fonctions utilitaires
-├── LICENSE                     # Licence pour le projet
 ├── project_1_starter.ipynb     # Notebook Jupyter principal
 ├── project_helper.py           # Fonctions auxiliaires pour l'analyse
 ├── project_tests.py            # Tests unitaires pour valider le code
