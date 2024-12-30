@@ -5,8 +5,8 @@
 This project implements a momentum-based trading strategy inspired by the **Udacity AI for Trading Nanodegree**. The project focuses on using quantitative finance techniques to develop a trading signal based on stock momentum, compute returns, and assess the potential profitability of the strategy.
 
 ## Project Structure
-
-```Project_1/
+```
+Project_1/
 ├── eod-quotemedia.csv          # Dataset contenant des données boursières
 ├── helper.py                   # Fonctions utilitaires
 ├── LICENSE                     # Licence pour le projet
@@ -15,8 +15,8 @@ This project implements a momentum-based trading strategy inspired by the **Udac
 ├── project_tests.py            # Tests unitaires pour valider le code
 ├── README.md                   # Documentation pour ce projet
 ├── requirements.txt            # Liste des packages nécessaires
-└── tests.py                    # Suite de tests pour les fonctionnalités```
-
+└── tests.py                    # Suite de tests pour les fonctionnalités
+```
 
 ## Key Features
 
