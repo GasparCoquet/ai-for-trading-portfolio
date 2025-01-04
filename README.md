@@ -8,6 +8,10 @@ This repository showcases projects inspired by the **Udacity AI for Trading Nano
 - **Trading with Momentum**  
   Implement a momentum-based trading strategy using historical stock prices. Compute signals, evaluate statistical significance, and test for profitability.
 
+### 2. Breakout Strategy
+- **Developing a Breakout Trading Signal**  
+  Create and evaluate a breakout trading strategy by analyzing price highs and lows. Generate long/short signals, filter redundant signals, and test signal profitability with statistical tools.
+
 ## Skills Demonstrated
 - Quantitative Finance and Trading
 - Python Programming (Pandas, NumPy, scikit-learn, TensorFlow, Plotly)
