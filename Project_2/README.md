@@ -8,14 +8,14 @@ This project implements a breakout trading strategy inspired by the **Udacity AI
 ```
 Project_2/
 ├── eod-quotemedia.csv           # Stock price dataset
-├── helper.py                    # Fonctions utilitaires
+├── helper.py                    # utilitary functions
 ├── terbium_mining_companies.csv # Dataset for synthetic TB sector stocks
 ├── project_2_starter.ipynb      # Notebook Jupyter principal
-├── project_helper.py            # Fonctions auxiliaires pour l'analyse
-├── project_tests.py             # Tests unitaires pour valider le code
-├── README.md                    # Documentation pour ce projet
-├── requirements.txt             # Liste des packages nécessaires
-└── tests.py                     # Suite de tests pour les fonctionnalités
+├── project_helper.py            # Auxiliary functions for analysis
+├── project_tests.py             # Unit tests to validate the code
+├── README.md                    # Documentation for this project
+├── requirements.txt             # List of necessary package
+└── tests.py                     # Test suite for features
 ```
 
 ## Key Features
