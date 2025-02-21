@@ -2,6 +2,9 @@
 
 This repository showcases projects inspired by the **Udacity AI for Trading Nanodegree**, focusing on practical applications of **quantitative finance**, **algorithmic trading**, **portfolio optimization**, and **natural language processing**. These projects demonstrate the use of advanced data analysis techniques, machine learning algorithms, and backtesting frameworks in the context of modern financial markets.
 
+## Requirements
+- **Python 3.11** (Required for compatibility with dependencies and functionality)
+
 ## Projects Included
 
 ### 1. Basic Quantitative Trading
@@ -11,6 +14,10 @@ This repository showcases projects inspired by the **Udacity AI for Trading Nano
 ### 2. Breakout Strategy
 - **Developing a Breakout Trading Signal**  
   Create and evaluate a breakout trading strategy by analyzing price highs and lows. Generate long/short signals, filter redundant signals, and test signal profitability with statistical tools.
+
+### 3. Smart Beta Portfolio and Portfolio Optimization
+- **Designing a Smart Beta Portfolio**  
+  Construct a portfolio using alternative weighting strategies and portfolio optimization techniques. Implement smart beta strategies, optimize asset allocation, and measure risk-adjusted returns.
 
 ## Skills Demonstrated
 - Quantitative Finance and Trading
